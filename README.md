@@ -1,7 +1,7 @@
 # Real-Time-Bitcoin-Price-Tracking-Prediction
 A real-time Bitcoin price tracker and predictor that fetches live data, saves historical prices, trains a machine learning model, and visualizes price trends
 
-![Alt text](https://example.com/image.png)
+![](https://github.com/paramvarsha12/Real-Time-Bitcoin-Price-Tracking---Prediction/blob/903927c23f4c2a83c936ea48dd3999430b756d3e/Screenshot%202025-06-15%20143021.png))
 
 
 ## Features
